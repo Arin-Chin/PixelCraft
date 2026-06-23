@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor temp
+.vscode/
+.idea/
+*.sublime-*
+
+# Project specific
+*.sublime-*
+screenshot.png
