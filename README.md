@@ -1,11 +1,11 @@
 ﻿<div align="center">
 
-# 🎨 PixelAvatar Generator
+# 🎨 PixelCraft
 
-**像素画编辑器 · Pixel Art Editor**
+**像素画工坊 · Pixel Art Workshop**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github-pages&logoColor=white)](https://arin-chin.github.io/PixelImageGenerator/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github-pages&logoColor=white)](https://arin-chin.github.io/PixelCraft/)
 
 > 🖌 将任意图片转换为像素风格，并用画笔工具精修。离线可用，无需后端。
 > Convert any image into pixel art, then refine it with paint tools. Works offline, no backend needed.
@@ -47,14 +47,14 @@
 ## 🚀 Quick Start / 快速开始
 
 ### 🌐 Online (GitHub Pages)
-[Click here to use it online](https://arin-chin.github.io/PixelImageGenerator/)
+[Click here to use it online](https://arin-chin.github.io/PixelCraft/)
 
 ### 📦 Local
 Just open `index.html` in any modern browser — that's it.
 
 ```bash
-git clone https://github.com/Arin-Chin/PixelImageGenerator.git
-cd PixelAvatarGenerator
+git clone https://github.com/Arin-Chin/PixelCraft.git
+cd PixelCraft
 # open index.html in your browser
 ```
 
@@ -76,7 +76,7 @@ cd PixelAvatarGenerator
 ## 📁 Project Structure / 项目结构
 
 ```
-PixelAvatarGenerator/
+PixelCraft/
 ├── index.html          # 🎨 主应用（单文件）
 ├── README.md           # 📖 项目文档
 ├── LICENSE             # ⚖️ MIT 开源许可
