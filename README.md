@@ -7,6 +7,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github-pages&logoColor=white)](https://arin-chin.github.io/PixelCraft/)
 
 > 🖌 将任意图片转换为像素风格，并用画笔工具精修。离线可用，无需后端。
+>
 > Convert any image into pixel art, then refine it with paint tools. Works offline, no backend needed.
 
 ---
@@ -68,6 +69,7 @@ cd PixelCraft
 5. **Export** as PNG / JPG / WebP
 
 > 💡 **Tip:** Right-click any pixel block to reset it to its original color.
+>
 > 💡 **Tip:** Press Ctrl+Z to undo, Ctrl+Y to redo.
 
 ---
