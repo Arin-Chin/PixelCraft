@@ -2,7 +2,6 @@
 
 # 🎨 PixelCraft
 
-**像素画工坊 · Pixel Art Workshop**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github-pages&logoColor=white)](https://arin-chin.github.io/PixelCraft/)
@@ -101,6 +100,6 @@ PixelCraft/
 
 <div align="center">
 
-Made with ❤️ and pixels
 
 </div>
+
